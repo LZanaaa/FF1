@@ -1,1 +1,1 @@
-Progetto Fanta Formula 1 di Ingegneria del Software @Unibo
+Fantasy Formula 1 Project, Software Engineering @Unibo
