@@ -1,13 +1,11 @@
 Fantasy Formula 1 Project, Software Engineering @Unibo
 
-Here is the English version of the `README.md` file for your GitHub repository, structured clearly and based entirely on your project documentation. 
-
 ***
 
-# Fanta Formula 1 - F²1 
+# Fantasy Formula 1 - F²1 
 
 ## Project Description
-The Formula 1 (F1) World Championship is a yearly motor racing competition held on various circuits across the globe. **Fanta Formula 1 (F²1)** is a Fantasy Game that allows users to create their own team of drivers and join a league to compete against other players12]. At the end of every real race, the application calculates scores based on the drivers' performances, assigning bonuses and maluses.
+The Formula 1 (F1) World Championship is a yearly motor racing competition held on various circuits across the globe. **Fanta Formula 1 (F²1)** is a Fantasy Game that allows users to create their own team of drivers and join a league to compete against other players. At the end of every real race, the application calculates scores based on the drivers' performances, assigning bonuses and maluses.
 
 ## Main Features
 * **Team Composition:** A team is made up of 3 Drivers, 1 Constructor, and 1 Legend.
