@@ -1,4 +1,4 @@
-Fantasy Formula 1 Project, Software Engineering @Unibo
+Fanta Formula 1 Project, Software Engineering @Unibo
 
 ***
 
